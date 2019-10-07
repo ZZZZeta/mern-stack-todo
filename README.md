@@ -1,3 +1,5 @@
+**MERN Todo application** Front-end part. </br>
+
 This application was made for practising Express/Node.js, MongoDB and how the back-end works. </br>
 
 In this app you can create Todo, edit it, end show a list with all todos </br>
@@ -7,4 +9,8 @@ In this app you can create Todo, edit it, end show a list with all todos </br>
 There is some screenshots: 
 
 ![Screenshot_1](https://github.com/ZZZZeta/mern-stack-todo/blob/master/screenshot_1.png)
+
+![Screenshot_2](https://github.com/ZZZZeta/mern-stack-todo/blob/master/screenshot_2.png)
+
+![Screenshot_3](https://github.com/ZZZZeta/mern-stack-todo/blob/master/screenshot_3.png)
 
