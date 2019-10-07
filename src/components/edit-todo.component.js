@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import axios from 'axios';
 
 class EditTodo extends Component {
-    
-
-
     state = {
         todo_description: '',
         todo_responsible: '',
