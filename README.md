@@ -7,5 +7,5 @@ In this app you can create Todo, edit it, end show a list with all todos </br>
 There is some screenshots: 
 
 ![Screenshot 1]
-(https://raw.githubusercontent.com/ZZZZeta/mern-stack-todo/master/screenshot_1.png)
+(https://github.com/ZZZZeta/mern-stack-todo/blob/master/screenshot_1.png)
 
